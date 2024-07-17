@@ -10,5 +10,9 @@ public class Main{
         System.out.println("Hello buddy");
 
         System.out.println("Added one more file");
+
+        // create Demo class object
+        Demo demo = new Demo();
+        demo.sayHello();
     }
 }
